@@ -5,7 +5,7 @@
 
 ## 🚀 About Me
 - 🔭 I’m currently working on **full-stack applications** and **AI-powered systems**  
-- 🌱 Learning **System Design**, **LLMs**, and advanced **DSA**  
+- 🌱 Learning **System Design**, **DevOps**, **LLMs**, and advanced **DSA**  
 - 💡 Interested in **frontend engineering**, **backend engineering**, **microservices**, **devops** and **AI integrations**  
 - 👯 Open to collaborate on **AI, web development, and open-source projects**  
 - 🎯 Aspiring for **SDE-1 roles** and internships  
