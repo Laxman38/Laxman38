@@ -72,12 +72,20 @@
 
 ---
 
+🔹 CostGuard – API Usage Analytics & Cost Guard Platform
+
+📌 Microservices API analytics platform with NGINX Gateway (auth, routing, rate limiting)
+📌 Real-time observability pipeline for metrics (latency, errors, usage) using Node.js & MongoDB
+📌 Cost estimation engine for per-endpoint and per-user API usage
+📌 React + TypeScript dashboard with KPIs, trends, and cost visualizations
+🔗 **Repo**: https://github.com/Laxman38/costguard
+
+---
 ## 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Laxman38&show_icons=true&theme=blueberry" height="170" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Laxman38&layout=compact&theme=blueberry" height="170" />
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Laxman38&theme=blueberry)
 </p>
 
 ---
