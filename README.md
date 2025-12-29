@@ -64,14 +64,6 @@
 
 ---
 
-### 🔹 **Smart Study Scheduler**
-📌 Goal tracking + Pomodoro + progress charts  
-📌 MERN stack productivity app  
-📌 JWT authentication & analytics  
-🔗 **Repo:** https://github.com/Laxman38/smart-study-scheduler
-
----
-
 ### 🔹 **CostGuard**
 📌 Microservices API analytics platform with NGINX Gateway
 📌 Real-time observability pipeline for metrics
