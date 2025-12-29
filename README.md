@@ -66,7 +66,6 @@
 
 ### 🔹 **CostGuard**
 📌 Microservices API analytics platform with NGINX Gateway
-📌 Real-time observability pipeline for metrics
 📌 Cost estimation engine for per-endpoint and per-user API usage
 📌 React + TypeScript dashboard
 🔗 **Repo**: https://github.com/Laxman38/costguard
