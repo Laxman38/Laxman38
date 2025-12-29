@@ -77,10 +77,10 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Laxman38&show_icons=true&theme=blueberry" height="170" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Laxman38&layout=compact&theme=blueberry" height="170" />
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Laxman38&theme=blueberry)
 </p>
 
 ---
-
 ## 📫 Connect With Me
 
 <p>
@@ -92,6 +92,7 @@
   </a>
 </p>
 
----
+💌 Feel free to **connect, collaborate, or discuss ideas** — always excited to meet fellow developers! 🚀
 
+---
 ### ⚡ *Thanks for visiting! Feel free to check out my repositories and connect.* 🚀
