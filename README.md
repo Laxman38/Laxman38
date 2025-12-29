@@ -72,12 +72,11 @@
 
 ---
 
-🔹 CostGuard – API Usage Analytics & Cost Guard Platform
-
-📌 Microservices API analytics platform with NGINX Gateway (auth, routing, rate limiting)
-📌 Real-time observability pipeline for metrics (latency, errors, usage) using Node.js & MongoDB
+### 🔹 **CostGuard**
+📌 Microservices API analytics platform with NGINX Gateway
+📌 Real-time observability pipeline for metrics
 📌 Cost estimation engine for per-endpoint and per-user API usage
-📌 React + TypeScript dashboard with KPIs, trends, and cost visualizations
+📌 React + TypeScript dashboard
 🔗 **Repo**: https://github.com/Laxman38/costguard
 
 ---
